@@ -5,3 +5,4 @@
 
 
 Made a whack a mole game using Html css Javascript.
+clone it ,play and have fun.
